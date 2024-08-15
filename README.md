@@ -11,7 +11,7 @@ This is a Python script that scrapes job postings from a GitHub repository and s
 
 ## Dependencies
 
-- Python 3
+- Python3
 - BeautifulSoup
 - requests
 - smtplib
